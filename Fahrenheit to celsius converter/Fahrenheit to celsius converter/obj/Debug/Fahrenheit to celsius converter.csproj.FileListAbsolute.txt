@@ -1,0 +1,9 @@
+S:\College work L3\Fahrenheit to celsius converter\Fahrenheit to celsius converter\bin\Debug\Fahrenheit to celsius converter.exe.config
+S:\College work L3\Fahrenheit to celsius converter\Fahrenheit to celsius converter\bin\Debug\Fahrenheit to celsius converter.exe
+S:\College work L3\Fahrenheit to celsius converter\Fahrenheit to celsius converter\bin\Debug\Fahrenheit to celsius converter.pdb
+S:\College work L3\Fahrenheit to celsius converter\Fahrenheit to celsius converter\obj\Debug\Fahrenheit to celsius converter.csprojResolveAssemblyReference.cache
+S:\College work L3\Fahrenheit to celsius converter\Fahrenheit to celsius converter\obj\Debug\Fahrenheit_to_celsius_converter.Form1.resources
+S:\College work L3\Fahrenheit to celsius converter\Fahrenheit to celsius converter\obj\Debug\Fahrenheit_to_celsius_converter.Properties.Resources.resources
+S:\College work L3\Fahrenheit to celsius converter\Fahrenheit to celsius converter\obj\Debug\Fahrenheit to celsius converter.csproj.GenerateResource.Cache
+S:\College work L3\Fahrenheit to celsius converter\Fahrenheit to celsius converter\obj\Debug\Fahrenheit to celsius converter.exe
+S:\College work L3\Fahrenheit to celsius converter\Fahrenheit to celsius converter\obj\Debug\Fahrenheit to celsius converter.pdb
